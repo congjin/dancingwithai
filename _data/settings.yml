@@ -10,7 +10,7 @@ address: TBD
 menu:
 - {name: Curriculum, link: '/dancingwithai/curriculum'}
 - {name: About, link: '/dancingwithai/about'}
-#- {name: open Poseblocks!, link: 'https://mitmedialab.github.io/prg-extension-boilerplate/create/'}
+- {name: open Poseblocks!, link: 'https://mitmedialab.github.io/prg-extension-boilerplate/create/'}
 
 create-base-url: https://mitmedialab.github.io/prg-extension-boilerplate/create/
 projects-base-url: https://congjin.github.io/dancingwithai/projects/
